@@ -7,7 +7,6 @@
 //
 
 import UIKit
-
 class FirstViewController: UIViewController {
     var MOD = model()
     
